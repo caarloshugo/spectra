@@ -1,0 +1,9 @@
+var us = [{"ID":1,"State":"California","AB":"CA","City":"Los Angeles","Provider":"Martec International","Url":"http://www.martecintl.com/","Number":"1-562-531-1161"},
+{"ID":2,"State":"Florida","AB":"FL","City":"Miami","Provider":"Martec International","Url":"http://www.martecintl.com/","Number":"1-305-887-9737"},
+{"ID":3,"State":"Illinois","AB":"IL","City":"Chicago","Provider":"Martec International","Url":"http://www.martecintl.com/","Number":"1-708-957-7311"},
+{"ID":4,"State":"New Jersey","AB":"NJ","City":"Elizabeth","Provider":"Martec International","Url":"http://www.martecintl.com/","Number":"1-908-248-9001"},
+{"ID":5,"State":"Texas","AB":"TX","City":"Houston","Provider":"Martec International","Url":"http://www.martecintl.com/","Number":"1-713-675-7989"},
+{"ID":6,"State":"New York ","AB":"NY","City":"Albany ","Provider":"PBS Brake & Supply Co","Url":"http://www.pbs-asi.com/","Number":"1-800-286-4274"},
+{"ID":7,"State":"New York ","AB":"NY","City":"Syracuse","Provider":"PBS Brake & Supply Co","Url":"http://www.pbs-asi.com/","Number":"1-800-252-2271"},
+{"ID":8,"State":"Kentucky","AB":"KY","City":"Louisville","Provider":"Total Truck Parts","Url":"http://www.totaltruckparts.com/","Number":"1-888-533-8356"},
+{"ID":9,"State":"Indiana","AB":"IN","City":"Clarksville","Provider":"Total Truck Parts","Url":"http://www.totaltruckparts.com/","Number":"1-800-848-0370"}]
